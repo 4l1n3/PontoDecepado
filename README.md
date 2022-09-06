@@ -1,7 +1,7 @@
 # Aline
 
 
-- 👋 Hi, I’m @PontoDecepado
+- 👋 Hi, I’m @Aline
 - 👀 I’m interested in parrots
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
